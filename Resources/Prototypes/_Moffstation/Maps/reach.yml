@@ -1,7 +1,7 @@
 ﻿- type: gameMap
   id: Reach
   mapName: 'Reach'
-  mapPath: /Maps/reach.yml # Until we make our own
+  mapPath: /Maps/_Moffstation/reach.yml # Until we make our own
   minPlayers: 0  # Deadpop
   maxPlayers: 15 # Deadpop
   stations:
