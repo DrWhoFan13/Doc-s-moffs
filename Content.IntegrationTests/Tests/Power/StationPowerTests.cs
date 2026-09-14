@@ -39,6 +39,7 @@ public sealed class StationPowerTests : GameTest
         "Lambda", // Moffstation
         "Ossuary", // Moffstation
         "Skeld", // Moffstation
+        "Reach", // Moffstation
         "Aspid", // Moffstation (From Harmony)
         "Barratry", // Moffstation (From Harmony)
         "Prime", // Moffstation (From Harmony)
